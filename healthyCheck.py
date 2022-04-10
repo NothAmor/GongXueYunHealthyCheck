@@ -90,6 +90,9 @@ if __name__ == "__main__":
     # 参数说明
     # 多账户就在列表中新增字典
 
+    # phoneNumber是 蘑菇钉/工学云 的登陆账号
+    # password是登录密码
+    
     # sendKey是server酱的发送秘钥
     # province是省份
     # city是城市
